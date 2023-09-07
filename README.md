@@ -36,7 +36,7 @@ Step 4: Configure the PC : <br/>
 <br />
 <br />
        <p align="center">
-Step 4: Configure the Laptop : <br/>
+Step 5: Configure the Laptop : <br/>
 <img src="https://imgur.com/BNE0AAP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /
@@ -45,12 +45,12 @@ Enter ipconfig /all to review the IPv4 addressing information from the DHCP serv
 <img src="https://imgur.com/gJ25MKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />      <p align="center">
-Step 5 : Check for Connectivity : <br/>
+Step 6 : Check for Connectivity : <br/>
 <img src="https://imgur.com/ZmxGKvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
  <p align="center">
- Step 6: In Web Browser, Navigate to Cisco.srv : <br/>
+ Step 7: In Web Browser, Navigate to Cisco.srv : <br/>
 <img src="https://imgur.com/qG9qU54.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />        
